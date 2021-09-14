@@ -47,7 +47,7 @@ channel.
 Individual sub-projects are likely to have their own Slack channels as well.
 We'll jot down a list here.
 
-We will have periodic meetings on Zoom, and meeting agenda and minutes will be
-captured in Google docs.
+We will have [periodic meetings](https://calendar.google.com/calendar/u/0/embed?src=c_c0pcihr7n2n1k3a38i32d9ag10@group.calendar.google.com&ctz=America/Los_Angeles) on [Zoom](https://zoom.us/j/99639347425?pwd=VGhEamJrVVhwaFZmMjFJTExoRlVFUT09), and will be
+captured in [Google docs](https://docs.google.com/document/d/1NkiS78knPhDO0vA9ElS-bQOHNu783gGPdmTEbbOoOOU).
 
 Stay tuned! More links and details will go up soon.
