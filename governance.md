@@ -53,7 +53,7 @@ election, under the same terms, membership body, and electorate.
 | --- | --- | --- | --- |
 | Thomas Fossati | @thomas-fossati | @Thomas Fossati | Arm |
 | Keith Moyer | @KeithMoyer | @Keith Moyer | Google |
-| Greg Kostal |  | @Greg Kostal  | Microsoft |
+| Greg Kostal | @gkostal | @Greg Kostal  | Microsoft |
 | Shanwei Cen | @shnwc | @Shanwei | Intel |
 | Mike Bursell | @MikeCamel | @Mike Bursell | Red Hat |
 
