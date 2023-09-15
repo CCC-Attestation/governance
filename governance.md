@@ -51,11 +51,11 @@ election, under the same terms, membership body, and electorate.
 
 | name | github | slack | company |
 | --- | --- | --- | --- |
-| Thomas Fossati | @thomas-fossati | @Thomas Fossati | Arm |
+| Thomas Fossati | @thomas-fossati | @Thomas Fossati | Linaro |
 | Keith Moyer | @KeithMoyer | @Keith Moyer | Google |
 | Greg Kostal | @gkostal | @Greg Kostal  | Microsoft |
-| Shanwei Cen | @shnwc | @Shanwei | Intel |
-| Mike Bursell | @MikeCamel | @Mike Bursell | Red Hat |
+| James D Beaney | @jdbeaney | @James D Beaney | Intel |
+| Mike Bursell | @MikeCamel | @Mike Bursell | |
 
 
 ## Evolving the Governance
