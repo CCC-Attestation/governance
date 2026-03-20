@@ -52,7 +52,7 @@ election, under the same terms, membership body, and electorate.
 | name | github | slack | company |
 | --- | --- | --- | --- |
 | Thomas Fossati | @thomas-fossati | @Thomas Fossati | Linaro |
-| Keith Moyer | @KeithMoyer | @Keith Moyer | Google |
+| Chong Cai | @kongoshuu | @Chong Cai | Google |
 | Greg Kostal | @gkostal | @Greg Kostal  | Microsoft |
 | James D Beaney | @jdbeaney | @James D Beaney | Intel |
 | Mike Bursell | @MikeCamel | @Mike Bursell | |
