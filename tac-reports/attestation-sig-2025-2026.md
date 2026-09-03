@@ -231,8 +231,7 @@ New IETF SEAT WG chartered; SEAT is **the** place where to discuss attested TLS
 ### Scheduled
 | Date | Topic |
 | --- | --- |
-| **2026-09-08** | Yogesh Deshpande - **Arm CoRIM profile** |
-| **2026-09-22** | Confidential Containers / AI folks *(TBC)* |
+| **2026-09-22** | Yogesh Deshpande - **Arm CCA CoRIM profile** |
 
 ---
 
